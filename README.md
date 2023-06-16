@@ -1,7 +1,7 @@
 # moching_sponge
 
 ### Moching text 
- This is an utility to make meme talk more accessable. 
+ This is a simple terminal script to make meme talk more accessable. 
  
  We are all awawre of the cool spongebob meme form mid 2017. If not here is a quick article get you up to speed 
  #### [WhAt Is Up WiTh ThAt WeIrD, NeW SpOnGeBoB MeMe?]( https://nymag.com/intelligencer/2017/05/what-is-the-mocking-spongebob-capitalized-letters-chicken-meme.html)
