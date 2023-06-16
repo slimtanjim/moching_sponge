@@ -3,7 +3,7 @@
 ### Moching text 
  This is a simple terminal script to make meme talk more accessable. 
  
- We are all awawre of the cool spongebob meme form mid 2017. If not here is a quick article get you up to speed 
+ We are all aware of the cool spongebob meme form mid 2017. If not here is a quick article get you up to speed 
  #### [WhAt Is Up WiTh ThAt WeIrD, NeW SpOnGeBoB MeMe?]( https://nymag.com/intelligencer/2017/05/what-is-the-mocking-spongebob-capitalized-letters-chicken-meme.html)
  ![SpongeBob image](https://pyxis.nymag.com/v1/imgs/09c/923/65324bb3906b6865f904a72f8f8a908541-16-spongebob-explainer.rsquare.w700.jpg)
  
